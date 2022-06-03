@@ -19,7 +19,6 @@ int main(void)
 		{
 			putchar(tens + '0');
 			putchar(ones + '0');
-
 			if (tens < 8)
 			{
 				putchar(',');
@@ -28,6 +27,7 @@ int main(void)
 
 		}
 	}
+	putchar('\n');
 
 	return (0);
 }
