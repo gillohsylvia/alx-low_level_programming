@@ -1,0 +1,8 @@
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 6-main.c 6-puts2.c -o 6-puts2
+
+
+./6-puts2 
+
+
+
+02468
