@@ -1,0 +1,12 @@
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 1-main.c 1-swap.c -o 1-swap
+
+
+
+./1-swap
+
+
+
+
+a=98, b=42
+a=42, b=98
+
