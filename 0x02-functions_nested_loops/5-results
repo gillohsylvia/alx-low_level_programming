@@ -1,0 +1,15 @@
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 5-main.c 5-sign.c -o 5-sign
+
+
+
+./5-sign
+
+
+
++, 1
+
+0, 0
+
++, 1
+
+-, /
