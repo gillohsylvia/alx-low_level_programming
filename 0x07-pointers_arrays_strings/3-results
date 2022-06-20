@@ -1,0 +1,8 @@
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 3-main.c 3-strspn.c -o 3-strspn
+
+
+./3-strspn
+
+
+
+5
