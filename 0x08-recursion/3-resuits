@@ -1,0 +1,13 @@
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 3-main.c 3-factorial.c -o 3-factorial
+
+
+
+./3-factorial 
+
+
+
+
+1
+120
+3628800
+-1
