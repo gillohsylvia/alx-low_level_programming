@@ -1,0 +1,7 @@
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 2-main.c 2-str_concat.c -o c
+
+
+./c | cat -e
+
+
+Betty Holberton
