@@ -1,0 +1,14 @@
+This is the whole process
+
+1. touch 0-isupper.c 0-memset.c 0-strcat.c 1-isdigit.c 1-memcpy.c 1-strncat.c 100-atoi.c 2-strchr.c 2-strlen.c 2-strncpy.c 3-islower.c 3-puts.c 3-strcmp.c 3-strspn.c 4-isalpha.c 4-strpbrk.c 5-strstr.c 6-abs.c 9-strcpy.c _putchar.c
+
+2. insert relevant codes in the .c files
+3. gcc -c -Wall -Werror -Wextra *.c
+4. ls
+5. ar -rc libmy.a *.o
+6. ls
+7. ranlib libmy.a
+8. ar -rcs libmy.a *.o
+9. ar -t libmy.a
+10.nm libmy.a
+11. betty *.c
