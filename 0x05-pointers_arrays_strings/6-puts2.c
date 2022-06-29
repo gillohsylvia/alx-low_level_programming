@@ -1,30 +1,22 @@
+#include <string.h>
 #include "main.h"
 
 /**
- *puts2 - print pair values.
- *@str: value to be evaluate.
- *Return: not.
+ * puts2 - prints every other character of a string, starting with the first
+ * character, followed by a new line.
+ * @str: parameter
+ *
+ * Return: void.
  */
 
 void puts2(char *str)
 {
-	int len = 0;
-	int l = 0;
-	char *y = str;
-	int z;
+	int x = strlen(str);
+	int i;
 
-	while (*y != '\0')
+	for (i = 0; i < x; i += 2)
 	{
-		y++;
-		len++;
-	}
-	l = len - 1;
-	for (z = 0 ; z <= l ; z++)
-	{
-		if (z % 2 == 0)
-		{
-			_putchar(str[z]);
-		}
+		_putchar(str[i]);
 	}
 	_putchar('\n');
 }
