@@ -1,0 +1,4 @@
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 3-main.c -o d
+
+./d 
+My name is Poppy, and I am 3.5 :) - Woof!
