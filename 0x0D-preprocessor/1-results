@@ -1,0 +1,5 @@
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 1-main.c -o b
+
+./b
+
+30171.855
