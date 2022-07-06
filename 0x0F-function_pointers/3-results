@@ -1,0 +1,22 @@
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 3-main.c 3-op_functions.c 3-get_op_func.c -o calc
+
+./calc 1 + 1
+2
+
+./calc 97 + 1
+98
+
+./calc 1024 / 10
+102
+
+./calc 1024 '*' 98
+100352
+
+./calc 1024 '\*' 98
+Error
+
+./calc 1024 - 98
+926
+
+./calc 1024 '%' 98
+44
