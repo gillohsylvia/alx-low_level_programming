@@ -1,0 +1,6 @@
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 2-main.c 2-print_strings.c -o c
+
+./c 
+
+
+Jay, Django
