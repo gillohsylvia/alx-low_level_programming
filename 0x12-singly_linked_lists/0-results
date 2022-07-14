@@ -1,0 +1,14 @@
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-main.c 0-print_list.c -o a
+
+
+
+./a 
+
+
+[5] Hello
+[5] World
+-> 2 elements
+
+[0] (nil)
+[5] World
+-> 2 elements
