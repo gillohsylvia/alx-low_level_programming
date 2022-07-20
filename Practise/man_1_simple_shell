@@ -1,0 +1,86 @@
+.TH Simple shell "12 April 2021" "version 1.0" "Programmer's Manual"
+
+.SH NAME
+.B Simple shell 
+- command interpreter (shell)
+
+.SH SYNOPSIS
+.PP
+.B ./shell [command_string | file]
+
+.PP
+.B 
+.SH DESCRIPTION
+Simple shell is a shell on top of the Kernel. Its task is to wrap around the Kernal and make interaction more civil. This shell is built as part of the process of learning C.
+
+Simple shell works like bash and any other basic C shells.
+.PP
+.SH EXAMPLE:
+ls -a
+ . .. other_files
+
+.PP
+
+.SH BUILTINS
+The general knows a couple of builtin commands. it also integrates with other commands \
+that can be located in the PATH. The output of General Bark is to replicate \
+exactly as the shell 'sh' or 'bash'.
+
+|----------|--------------------------------------------|
+
+|`alias`   | to create aliases                          |
+
+|`help`    | to get help on built-in functions          |
+
+|`cd`      | change working directories                 |
+
+|`history` | list of commands typed in the past         |
+
+|`print_environ`| prints environmental variables           |
+
+|`set`     | sets new environmental variables           |
+
+|`exit`    | exit out of gbk                            |
+
+|`unset`   | unsets envrionmental variables             |
+
+|----------|--------------------------------------------|
+
+.PP
+.B $ man bash
+. Simple shell\
+Simple shell takes commands from files, shell scripts and user input in both interactive or non-interactive mode.
+
+.SH INITIALIZATION AND INVOCATION
+To work with Simple shell the user needs to compile \
+using: gcc. Then run the output file by calling it  \
+by the output name it was given. 
+.PP
+.B EX: $ ./some_name or $ ./a.out
+.PP
+Simple shell will compile with the following:
+gcc -Wall -Wextra -Werror -pedantic *.c -o gbk
+
+
+.PP
+If the user inputs piplines or calls in the non-interactive mode Simple shell should\
+funciton and execute said commands. An example of non-interactive mode input:
+.PP
+.B $ echo 'ls -a' | ./gbk
+.PP
+.PP
+Another example of non interactive mode:
+.PP
+.B $ cat some_file | ./gbk
+.PP
+
+.B
+.PP
+.SH OPTION
+currently no options are supported
+.SH SEE ALSO
+.I Nothing else
+.SH BUGS
+No Known Bugs
+.SH AUTHORS
+.E. Kiminza && N. Rotich
