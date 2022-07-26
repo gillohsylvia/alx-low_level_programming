@@ -1,0 +1,8 @@
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 2-main.c 2-append_text_to_file.c -o c
+
+./c hello " World!
+> "
+-> 1)
+
+cat hello 
+Hello World!
