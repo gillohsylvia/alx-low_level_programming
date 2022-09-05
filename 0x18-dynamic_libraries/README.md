@@ -1,1 +1,1 @@
-This directory is about dynamic libraries
+This is awesome
