@@ -1,0 +1,7 @@
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 1-main.c 1-djb2.c -o b
+
+./b
+ 
+6953392314605
+3749890792216096085
+5861846xscxs

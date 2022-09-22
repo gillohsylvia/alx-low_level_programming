@@ -1,0 +1,10 @@
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 2-main.c 1-djb2.c 2-key_index.c -o c
+
+./c
+ 
+6953392314605
+237
+3749890792216096085
+341
+5861846
+470
