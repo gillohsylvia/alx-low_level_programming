@@ -1,4 +1,9 @@
 # argc, argv
+# Resources
+* [Arguments to main](https://intranet.alxswe.com/rltoken/Jip_nI4tv2ybQZ-jV3fqJg)
+* [argc and argv](https://intranet.alxswe.com/rltoken/31aLwv8qsXuiUZrOk9Djqg)
+* [What does argc and argv mean?](https://intranet.alxswe.com/rltoken/A0pzqslB6Z3Y3OV3hJQ6Tw)
+* [how to compile with unused variables](https://intranet.alxswe.com/rltoken/MkOUE1ndq1UAx9Erk-AVbg)
 
 # Learning Objectives
 
@@ -130,7 +135,7 @@ Write a program that prints the minimum number of coins to make change for an am
 * you should use atoi to parse the parameter passed to your program
 * If the number passed as the argument is negative, print 0, followed by a new line
 * You can use an unlimited number of coins of values 25, 10, 5, 2, and 1 cent
-___Solution__: 100-change.c
+**Solution:** 100-change.c
 ```
 julien@ubuntu:~/0x0A. argc, argv$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 100-change.c -o change
 julien@ubuntu:~/0x0A. argc, argv$ ./change 
