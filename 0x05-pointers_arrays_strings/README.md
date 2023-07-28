@@ -3,14 +3,14 @@
 * [Pointers and Arrays](https://www.linkedin.com/pulse/pointers-c-programming-language-sylvia-gilloh)
 * Data Structures. Data structures, as the term implies, are a way of structuring data in order to efficiently store, find, use, and create data, depending on the task at hand. If data is a plate of food, data structures are your utensils (algorithms would be how to effectively use those utensils in this analogy). Just as you will likely select a spoon to eat a bowl of soup rather than a knife, you will learn over time to select and properly use data structures that fit the nature of the data you are working with. When you begin learning basic data structures such as arrays and linked lists, you will start to conceptualize how data is stored, searched, and edited, and what these operations will contribute to the space/time complexity of your program at runtime (this will make more sense once you start to learn about Big O notation). As you continue to learn more complex data structures, you may notice that you need to think more abstractly and deliberately in order to properly implement them. But with patience and practice, you will begin to see patterns emerge that will allow you to intuitively see which situation calls for which data structure, just as you know to pick up a spoon when you see a bowl of soup.
  1. References
-  * [Tutorials Point](https://intranet.alxswe.com/rltoken/ZjxizWAKkkJzpHs1mmZZdw)
-  * [Geek for Geeks](https://intranet.alxswe.com/rltoken/j6OHt4I4GW0dOWihIwQoWA)
-  * [How to select a good data structure](https://intranet.alxswe.com/rltoken/Zf-TH854gUT9X44DXf5VJw)
+  * [Tutorials Point](https://www.tutorialspoint.com/data_structures_algorithms/data_structures_basics.htm)
+  * [Geek for Geeks](https://www.geeksforgeeks.org/data-structures/)
+  * [How to select a good data structure](https://www.careerdrill.com/blog/coding-interview/choosing-the-right-data-structure-to-solve-problems/)
 # Resources
-* [C - Arrays](https://intranet.alxswe.com/rltoken/PVi2XMuApOK3jfhsoqsyXw)
-* [C - Pointers](https://intranet.alxswe.com/rltoken/oyHybzYBeFiLUMALpb_usA)
-* [C - Strings](https://intranet.alxswe.com/rltoken/sUeh9qDyW9pePOfJIpx_Bw)
-* [Memory Layout](https://intranet.alxswe.com/rltoken/0k6CD2ZMzSFOMUxMOBiAlQ)
+* [C - Arrays](https://www.tutorialspoint.com/cprogramming/c_arrays.htm)
+* [C - Pointers](https://www.tutorialspoint.com/cprogramming/c_pointers.htm)
+* [C - Strings](https://www.tutorialspoint.com/cprogramming/c_strings.htm)
+* [Memory Layout](https://aticleworld.com/memory-layout-of-c-program/)
 # Learning Objectives
 
 * What are pointers and how to use them
