@@ -1,10 +1,10 @@
 # More functions and nested loops project 
 # Resources
-* [Nested while loops](https://intranet.alxswe.com/rltoken/aDRkFzUkVysnD94Dpm3w5g)
-* [C - Functions](https://intranet.alxswe.com/rltoken/zf4IZeoe0yFZL2X7_nznQQ)
-* [Learning to Program in C](https://intranet.alxswe.com/rltoken/iQ87CI4Lf41U_uRh9QsoQA)
-* [What is the purpose of a function prototype?](https://intranet.alxswe.com/rltoken/pUXhvD6-xl5BbWyj1AhCEA)
-* [C - Header Files](https://intranet.alxswe.com/rltoken/IFY075ffrszSJvHqPAa-zQ)
+* [Nested while loops](https://www.youtube.com/watch?v=Z3iGeQ1gIss)
+* [C - Functions](https://www.tutorialspoint.com/cprogramming/c_functions.htm)
+* [Learning to Program in C](https://www.youtube.com/watch?v=qMlnFwYdqIw)
+* [What is the purpose of a function prototype?](https://www.geeksforgeeks.org/what-is-the-purpose-of-a-function-prototype/)
+* [C - Header Files](https://www.tutorialspoint.com/cprogramming/c_header_files.htm)
 
 # Learning Objectives
 
