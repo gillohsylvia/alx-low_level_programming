@@ -1,15 +1,15 @@
 # C - Variables, if, else, while
 ## Resources
-* [Everything you need to know to start with C.pdf](https://intranet.alxswe.com/rltoken/PkAydT3D9u5pN3nPCAlNZQ)
-* [Keywords and identifiers](https://intranet.alxswe.com/rltoken/58ThnAAxwJv5s_ceKMMPhw)
-* [integers](https://intranet.alxswe.com/rltoken/2sXkmDiD7BF7pNIOxMQWFA)
-* [Arithmetic Operators in C](https://intranet.alxswe.com/rltoken/S-b9MN2iELhSEwCI093Vzw)
-* [If statements in C](https://intranet.alxswe.com/rltoken/usvxrTB3ko5kGTq48p5fSA)
-* [if…else statement](https://intranet.alxswe.com/rltoken/CU6mSX1qdZKOhDEgmToUGA)
-* [Relational operators](https://intranet.alxswe.com/rltoken/O1N-qacaTC-BHXm3Dp3eUA)
-* [Logical operators](https://intranet.alxswe.com/rltoken/TaX_y6ll4cRfxCrxG8ZuNQ)
-* [while loop in C](https://intranet.alxswe.com/rltoken/mwx2_bj3gIFEgCqdwdTp4w)
-* [While loop](https://intranet.alxswe.com/rltoken/MW4Ob-6JLWt7Zn6vZ0EsBw)
+* [Everything you need to know to start with C.pdf](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/misc/2022/4/e0ccf91eec6b977a9e00ed384dc285df9c2772e3.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230728%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230728T063510Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=38e2e05684b0c59a8cb8232ba2d1b02116d63380edd461e987d46d5c85bbcb4a)
+* [Keywords and identifiers](https://publications.gbdirect.co.uk//c_book/chapter2/keywords_and_identifiers.html)
+* [integers](https://publications.gbdirect.co.uk//c_book/chapter2/integral_types.html)
+* [Arithmetic Operators in C](https://www.tutorialspoint.com/cprogramming/c_arithmetic_operators.htm)
+* [If statements in C](https://www.cprogramming.com/tutorial/c/lesson2.html)
+* [if…else statement](https://www.tutorialspoint.com/cprogramming/if_else_statement_in_c.htm)
+* [Relational operators](https://www.tutorialspoint.com/cprogramming/c_relational_operators.htm)
+* [Logical operators](https://www.fresh2refresh.com/c-programming/c-operators-expressions/c-logical-operators/)
+* [while loop in C](https://www.tutorialspoint.com/cprogramming/c_while_loop.htm)
+* [While loop](https://www.youtube.com/watch?v=Ju1LYO9pkaI)
 ## Learning Objectives
 * What are the arithmetic operators and how to use them
 * What are the logical operators (sometimes called boolean operators) and how to use them
