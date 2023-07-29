@@ -1,9 +1,9 @@
 # argc, argv
 # Resources
-* [Arguments to main](https://intranet.alxswe.com/rltoken/Jip_nI4tv2ybQZ-jV3fqJg)
-* [argc and argv](https://intranet.alxswe.com/rltoken/31aLwv8qsXuiUZrOk9Djqg)
-* [What does argc and argv mean?](https://intranet.alxswe.com/rltoken/A0pzqslB6Z3Y3OV3hJQ6Tw)
-* [how to compile with unused variables](https://intranet.alxswe.com/rltoken/MkOUE1ndq1UAx9Erk-AVbg)
+* [Arguments to main](https://publications.gbdirect.co.uk//c_book/chapter10/arguments_to_main.html)
+* [argc and argv](http://crasseux.com/books/ctutorial/argc-and-argv.html)
+* [What does argc and argv mean?](https://www.youtube.com/watch?v=aP1ijjeZc24)
+* [how to compile with unused variables](https://www.google.com/webhp?q=unused+variable+C)
 
 # Learning Objectives
 
