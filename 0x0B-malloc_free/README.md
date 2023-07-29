@@ -1,7 +1,7 @@
 # malloc, free
 # Resources
-* [0x0a - malloc & free - quick overview.pdf](https://intranet.alxswe.com/rltoken/7q6RmWq86XkUhvmlhrg9bg)
-* [Dynamic memory allocation in C - malloc calloc realloc free](https://intranet.alxswe.com/rltoken/pfGb2oVIYLO_1a8jtFGQYw)
+* [0x0a - malloc & free - quick overview.pdf](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/misc/2021/1/a094c90e7f466bbeaa49cb24c8f04e7f27aaad41.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230729%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230729T144518Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=cf209d756cb1e50c70e73263efbd77c734d1a61d0e045908799c9265344c37b3)
+* [Dynamic memory allocation in C - malloc calloc realloc free](https://www.youtube.com/watch?v=xDVC3wKjS64)
 * [concept](https://www.linkedin.com/pulse/automatic-dynamic-allocation-malloc-free-sylvia-gilloh%3FtrackingId=fHwhlDW1igUw7GLlBVC%252Fvw%253D%253D/?trackingId=fHwhlDW1igUw7GLlBVC%2Fvw%3D%3D)
 
 # Learning Objectives
