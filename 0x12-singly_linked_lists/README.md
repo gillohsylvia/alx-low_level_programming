@@ -1,7 +1,7 @@
 # 0x12. C - Singly linked lists
 ## Concepts
 For this project, we expect you to look at this concept:
-* Data Structures
+* [Data Structures](structures.md)
 # Resources
 * [Linked Lists](https://www.youtube.com/watch?v=udapt4FGY20&t=130s)
 * [Google](https://www.google.com/#q=linked+lists)
